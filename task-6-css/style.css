@@ -40,7 +40,30 @@
 .second-container {
     min-width: 30%;
     max-width: 31%;
-    height:100vh;
+    height:max-content;
     background-color: blueviolet;
     color: white;
   }
+
+
+
+  
+.second-right-heading {
+  display: flex;
+  align-items: center;
+  column-gap: 1%;
+  margin-top: 13px;
+  /* font-size: 21px; */
+}
+
+
+
+.second-right-heading > img{
+  width: 32px;
+}
+
+
+.font-25{
+  font-size: 19px;
+  margin-top: 4px;
+}
