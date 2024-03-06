@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.first-container {
+  width: 70%;
+  /* min-width: 70%; */
+  /* max-width: 71%; */
+  /* padding: 3%; */
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+.first-left-heading {
+  display: flex;
+  align-items: center;
+  opacity: 60%;
+  column-gap: 1%;
+  margin-top: 4%;
+  margin-bottom: 3%;
+  /* font-size: 21px; */
+}
+
+.first-left-below {
+  font-size: 20px;
+  font-weight: 600;
+  opacity: 60%;
+}
+
+
+.first-text-below{
+    font-size: 21px;margin-top: 4px;margin-top: 2%;opacity: 70%;
+}
+
+
+
+/* second container */
+
+.second-container {
+    min-width: 30%;
+    max-width: 31%;
+    height:100vh;
+    background-color: blueviolet;
+    color: white;
+  }
