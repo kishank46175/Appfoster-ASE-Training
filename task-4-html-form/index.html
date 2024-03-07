@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Html-form</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <fieldset class="box-class">
+      <legend>Primary Details</legend>
+      <div>
+        <label style="position: relative; left: 250px" for="valid-id"
+          >Valid Till</label
+        ><br />
+        <label for="mnumber">Medicare No</label>
+        <span style="margin-left: 20px">
+          <input type="text" id="mnumber" name="mnumber" size="8" />
+          /
+          <input type="text" id="mnumber" name="mnumber" size="2" />
+
+          <input type="month" id="valid-id" name="valid-id" value="2020-10" />
+
+          <input type="text" size="1" style="background-color: gainsboro;"/>
+        </span>
+
+        <br />
+        <br />  
+
+        <label for="title-id">Title</label>
+        <span style="margin-left: 75px">
+          <select name="title" id="title-id">
+            <option value="none">None</option>
+            <option value="mr">Mr</option>
+            <option value="mrs">Mrs</option>
+          </select>
+        </span>
+
+        <br />
+
+        <div style="margin-top: 10px; position: relative; left: 110px">
+          LastName, FirstName, Middlen
+        </div>
+
+        <label for="name">Name</label>
+        <input
+          style="position: relative; left: 65px"
+          type="text"
+          id="name"
+          name="name"
+          size="29"
+        />
+
+        <br />
+        <label for="pref-name">Pref.Name</label>
+        <input
+          style="position: relative; left: 36px; margin-top: 10px;margin-bottom: 10px;"
+          type="text"
+          id="pref-name"
+          name="pref-name"
+          size="20"
+        />
+
+        <br />
+
+        <label for="dob">DOB</label>
+        <span style="position: relative;margin-left: 66px;border: 1px solid black;padding: 2px;">
+          <input type="checkbox" name="dob" />
+          <label for="dob">27/07/2018</label>
+
+          <select name="title" id="title-id"></select>
+        </span>
+
+        <br />
+        <br>
+        <label for="sex">Sex</label>
+        <span style="margin-left: 70px;">
+            <input type="radio" id="sex" value="Male" checked />
+            <label for="Male">Male</label>
+            <input type="radio" id="sex" value="Female" />
+            <label for="Female">Female</label>
+        </span>
+
+        <br />
+        <br />
+
+        <label for="mnumber">Family Name</label>
+        <input style="margin-left: 10px;" type="text" id="mnumber" name="mnumber" size="8" />
+
+        <input
+          style="text-decoration: underline;text-align: center;"
+          type="text"
+          value="N"
+          size="1"
+        />
+        <input
+          style="text-decoration: underline;text-align: center;"
+          type="text"
+          value="I"
+          size="1"
+        />
+      </div>
+    </fieldset>
+
+    
+    <!-- second component -->
+    <fieldset class="box-class">
+        <legend>Contact Details</legend>
+        
+    </fieldset>
+
+
+  </body>
+</html>
