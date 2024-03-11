@@ -1,0 +1,35 @@
+body{
+    background-color: gainsboro;
+
+    height: fit-content;
+}
+
+.behind-container{
+    padding: 4%;
+
+    align-items: center;
+}
+
+input{
+    width:98%;
+    color: black;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.container-small{
+    background-color: white;
+    padding: 3px;
+    height: 80px;
+    margin-top: 4px;
+}
+
+button{
+    padding: 8px;
+    background-color: rgb(159, 117, 196);
+    color: white;
+    border-radius: 5px;
+
+}
+
+
