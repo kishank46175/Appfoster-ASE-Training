@@ -1,0 +1,499 @@
+   26  exit
+   27  cd c:/codes
+   28  ls
+   29  cd web-development/
+   30  ls
+   31  cd web
+   32  ls
+   33  cd 63_loginsignup/
+   34  ls
+   35  cd router-project-starter
+   36  ls
+   37  code .
+   38  cd c:/codes
+   39  ls
+   40  cd web-development/
+   41  ls
+   42  cd web
+   43  ls
+   44  cd 63_loginsignup/
+   45  ls
+   46  cd router-project-starter
+   47  ls
+   48  cd src
+   49  ls
+   50  cd ..
+   51  ls
+   52  code .
+   53  cd c:/codes
+   54  ls
+   55  cd web-development/
+   56  ls
+   57  cd web
+   58  ls
+   59  cd 54_weatherProject/
+   60  ls
+   61  code .
+   62  cd c:/codes
+   63  ls
+   64  cd E:/prac
+   65  ls
+   66  cd fullstack
+   67  cd FullstackBasic/
+   68  ls
+   69  cd 02counter/
+   70  ls
+   71  code .
+   72  cd E:/prac
+   73  ls
+   74  cd prac
+   75  ls
+   76  mkdir weeklyCalender
+   77  cd weeklyCalender/
+   78  ls
+   79  code .
+   80  exit
+   81  cd c:/codes
+   82  cd web-development/
+   83  ls
+   84  cd web
+   85  ls
+   86  cd 63
+   87  cd c:/codes/web-development
+   88  ls
+   89  cd web
+   90  ls
+   91  ls
+   92  cd 63_loginsignup/
+   93  ls
+   94  cd router-project-starter
+   95  ls
+   96  code .
+   97  cd ..
+   98  ls
+   99  cd ..
+  100  ls
+  101  cd c:/codes/
+  102  ls
+  103  cd web-development/
+  104  l
+  105  ls
+  106   cd web
+  107  ls
+  108  cd 68_shopping-cart-starter/
+  109  ls
+  110  ls
+  111  code 
+  112  code .
+  113  ls
+  114  npm create vite@latest
+  115  ls
+  116  cd ..
+  117  ls
+  118  cd 68_shopping-cart-starter/
+  119  ls
+  120  mkdir shoppingcart
+  121  cd shoppingcart/
+  122  ls
+  123  code .
+  124  exit
+  125  cd E:
+  126  ls
+  127  cd prac
+  128  ls
+  129  cd projects/
+  130  ls
+  131  mkdir taskList
+  132  cd taskList/
+  133  ls
+  134  npm create vite@latest .
+  135  code .
+  136  git init
+  137  git add .
+  138  git commit -m "learned userContext"
+  139  UserContext
+  140  cd ..
+  141  ls
+  142  9_theme_switcher
+  143  mkdir 9_theme_switcher
+  144  cd 9_theme_switcher/
+  145  ls
+  146  code .
+  147  exit
+  148  cd E:
+  149  ls
+  150  cd prac
+  151  ls
+  152  ls /debug
+  153  /debug /ls
+  154  ls -lr
+  155  ls- la
+  156  ls *
+  157  explorer .
+  158  ls
+  159  ls *
+  160  cd projects
+  161  ls
+  162  mkdir Depariksha
+  163  cd Depariksha/
+  164  ls
+  165  code .
+  166  npm create vite @latest
+  167  restart 
+  168  help
+  169  cd E:/prac
+  170  ls
+  171  cd chai_aur_react/
+  172  ls
+  173  mkdir 14_context_api
+  174  ls
+  175  mv 8_context_api/ ./13_context_api
+  176  ls
+  177  mv 13_context_api/ ./13_context_api_learn
+  178  ls
+  179  cd 14_context_api/
+  180  ls
+  181  code .
+  182  exit
+  183  cd c:/codes/
+  184  ls
+  185  cd web-ddeve
+  186  cd web-development/
+  187  ls
+  188  cd all
+  189  ls
+  190  cd js_prac/
+  191  ls
+  192  code .
+  193  ls
+  194  rm *
+  195  rm -r *
+  196  exit
+  197  cd E:/prac
+  198  ls
+  199  prac-react-temp
+  200  mkdir prac-react-temp
+  201  cd prac-react-temp/
+  202  ls
+  203  code .
+  204  cd c:/codes
+  205  ls
+  206  cd web-development/
+  207  ls
+  208  cd web
+  209  ls
+  210  cd 63_loginsignup/
+  211  ls
+  212  cd router-project-starter
+  213  ls
+  214  code .
+  215  cd ..
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd E:/prac
+  220  ls
+  221  cd internship/
+  222  ls
+  223  cd c:/codes
+  224  ls
+  225  cd web-development/
+  226  ls
+  227  cd web
+  228  ls
+  229  cd 68_shopping-cart-starter/
+  230  ls
+  231  code .
+  232  ls
+  233  cd c:/codes
+  234  ls
+  235  exit
+  236  cd c:/codes
+  237  ls
+  238  cd cpp
+  239  ls
+  240  cd yearly/
+  241  ls
+  242  cd 2024
+  243  ls
+  244  mkdir 03march2024
+  245  cd 03march2024/
+  246  ls
+  247  code .
+  248  cd ../
+  249  ls
+  250  cd ..
+  251  ls
+  252  cd 2023
+  253  ls
+  254  cd 03march2023/
+  255  ls
+  256  exit
+  257  cd c:/codes
+  258  ls
+  259  cd E:/prac
+  260  ls
+  261  cd projects/
+  262  ls
+  263  cd taskList/
+  264  ls
+  265  cat package.json
+  266  ls
+  267  cd src
+  268  ls
+  269  ls
+  270  cd ..
+  271  ls
+  272  code index.html
+  273  cd E:/prac
+  274  ls
+  275  cd internship/
+  276  ls
+  277  mkdir reviewSentiment
+  278  cd reviewSentiment/
+  279  ls
+  280  code .
+  281  cd E:/
+  282  ls
+  283  cd prac
+  284  ls
+  285  mkdir learn-backend
+  286  ls
+  287  cd learn-backend/
+  288  ls
+  289  mkdir 01_web_server
+  290  cd 01_web_server/
+  291  ls
+  292  code .
+  293  E:\prac\learn-backend\01_web_server
+  294  cd E:\prac\learn-backend\01_web_server
+  295  cmd
+  296  exit
+  297  cd E:/
+  298  ls
+  299  mkdir AppFoster
+  300  cd AppFoster/
+  301  ls
+  302  mkdir appfoster-ase-training
+  303  cd appfoster-ase-training/
+  304  ls
+  305  touch myfile.html
+  306  git init
+  307  git add README.md
+  308  git commit -m "first commit"
+  309  git branch -M main
+  310  git remote add origin https://github.com/kishank46175/Appfoster-ASE-Training.git
+  311  git push -u origin main
+  312  cls
+  313  clear
+  314  git init
+  315  git add .
+  316  git rm --cached task-3-basic-html/
+  317  clear
+  318  git init
+  319  git add .
+  320  git commit -m "pushing code on github"
+  321  git remote add origin https://github.com/kishank46175/Appfoster-ASE-Training.git
+  322  git push -u origin main
+  323  git branch
+  324  git branch -M main
+  325  git branch
+  326  git remote add origin https://github.com/kishank46175/Appfoster-ASE-Training.git
+  327  git push -u origin main
+  328  git push -u origin main
+  329  clear
+  330  cd c:/github
+  331  ls
+  332  clear
+  333  exit
+  334  cd c:/github
+  335  ls
+  336  ssh-add ~/.ssh/id_appfoster
+  337  eval "$(ssh-agent -s)"
+  338  ssh-add ~/.ssh/id_appfoster
+  339  ssh-add ./id_appfoster
+  340  cd ..
+  341  ls
+  342  rm -rf github
+  343  ls
+  344  exit
+  345  git init
+  346  git add .
+  347  git commit -m "pushing code"
+  348  git branch -M main
+  349  git remote add origin https://github.com/kishank46175/Appfoster-ASE-Training.git
+  350  git push -u origin main
+  351  git config --get credential.helper
+  352  git push -u origin main
+  353  git branch -M main
+  354  git remote add origin git@github.com:kishank46175/Appfoster-ASE-Training.git
+  355  git push -u origin main
+  356  git init
+  357  git add README.md
+  358  git commit -m "first commit"
+  359  git branch -M main
+  360  git remote add origin git@github.com:kishank46175/Appfoster-ASE-Training.git
+  361  git push -u origin main
+  362  git add .
+  363  git commit -m "first commit"
+  364  git push origin main
+  365  git push origin main
+  366  clear
+  367  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  368  git push origin main
+  369  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  370  clear
+  371  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  372  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  373  git push origin main
+  374  eval "$(ssh-agent -s)"
+  375  clear
+  376  ls
+  377  cd appfoster-ase-training/
+  378  ls
+  379  ls -la
+  380  git origin
+  381  origin
+  382  git --hlep
+  383  git --help
+  384  cls
+  385  clear
+  386  git add .
+  387  git commit -m "pushing changes"
+  388  git branch -M main
+  389  git remote add origin git@github.com:kishank46175/Appfoster-ASE-Training.git
+  390  git push -u origin main
+  391  ssh-keygen -t ed25519 -C "kishank46175@gmail.com"
+  392  clear
+  393  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  394  clear
+  395  clear
+  396  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  397  ls
+  398  rm id_rsa_kishan_appfoster id_rsa_kishan_personal id_rsa_kishan_appfoster.pub  id_rsa_kishan__personal.pub
+  399  rm id_rsa_kishan_appfoster id_rsa_kishan_personal id_rsa_kishan_appfoster.pub id_rsa_kishan_personal.pub 
+  400  explorer .
+  401  ls
+  402  ls
+  403  cd c:
+  404  ls
+  405  cd github-auth
+  406  mkdir github-auth
+  407  cd github-auth/
+  408  ls
+  409  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  410  ssh-keygen -t ed25519 -C "kishank46175@gmail.com"
+  411  ls
+  412  cat id_rsa_kishan_appfoster.pub
+  413  cat id_rsa_kishan_personal.pub
+  414  touch config
+  415  nano config
+  416  ls
+  417  cd 
+  418  cd ~
+  419   nano ~/.gitconfig
+  420  cd c:
+  421  ls
+  422  rm -rf github-auth/
+  423  ls
+  424  cls
+  425  clear
+  426  git remote
+  427  exit
+  428  exit
+  429  cd c:/github
+  430  ls
+  431  cd c:
+  432  ls
+  433  cd github-auth/
+  434  ls
+  435  ls
+  436  cd e:/appfoster
+  437  ls
+  438  git remote
+  439  cls
+  440  clear
+  441  git init
+  442  git add README.md
+  443  git commit -m "first commit"
+  444  git branch -M main
+  445  git remote add origin git@github.com:kishank46175/Appfoster-ASE-Training.git
+  446  git push -u origin main
+  447  git add .
+  448  git commit -m "push changes"
+  449  git branch -M main
+  450  git remote add origin git@github.com:kishank46175/Appfoster-ASE-Training.git
+  451  git remote -v
+  452  git push origin main
+  453  ssh-keygen -t rsa -b ed25519 -C "kishan.kadam@appfoster.com"
+  454  ssh-keygen -t ed25519 -C "kishan.kadam@appfoster.com"
+  455  cd
+  456  git config --global user.name
+  457  git config --global use.email "kishan.kadam@appfoster.com"
+  458  git config --lisht
+  459  git config --list
+  460  git config --global user.name "Kishan_work"
+  461  git config --global user.email "kishan.kadam@appfoster.com"
+  462  git config --list
+  463  cd c:/codes
+  464  git config --list
+  465  cd E:/appfoster
+  466  ls
+  467  cd appfoster-ase-training/
+  468  ls
+  469  cd Appfoster-ASE-Training/
+  470  ls
+  471  git remote add origin git@github.com:kishank46175/Appfoster-ASE-Training.git
+  472  git push -u origin main
+  473  ls
+  474  cd task-5-learning-git/
+  475  ls
+  476  touch 1.txt
+  477  git add .
+  478  git commit -m "added"
+  479  git push origin main
+  480  cd EL
+  481  cd E:
+  482  ls
+  483  cd E:/appfoster
+  484  ls
+  485  cd appfoster-ase-training/
+  486  ls
+  487  cd Appfoster-ASE-Training/
+  488  ls
+  489  cd ..
+  490  ls
+  491  mv Appfoster-ASE-Training/ ../
+  492  mv -f Appfoster-ASE-Training/ ../
+  493  ls
+  494  explorer .
+  495  ls
+  496  git clone https://github.com/kishank46175/Appfoster-ASE-Training.git
+  497  ls
+  498  cd Appfoster-ASE-Training/
+  499  ls
+  500  code .
+  501  cd E:/appfoster
+  502  ls
+  503  cd Appfoster-ASE-Training/
+  504  ls  505  cd task-7-cli/
+  506  ls
+  507  clear
+  508  touch readme.md
+  509  nano readme.md
+  510  cp readme.md ./copy_readme.md
+  511  ls
+  512  cp readme.md ./1copy_readme.md
+  513  rm ./1copy_readme.md 
+  514  ls
+  515  clear
+  516  curl www.google.com
+  517  cp curl www.google.com -g text.txt
+  518  curl www.google.com greap script
+  519  cat readme.md
+  520  ls -l
+  521  curl www.google.com  googlefetch.txt
+  522  curl https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+  523  clear
+  524  curl https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch -L -I | grep location
+  525  history > cli_history.txt
