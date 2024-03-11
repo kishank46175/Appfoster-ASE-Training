@@ -8,6 +8,8 @@ INSERT INTO CUSTOMERS(id,firstName,lastName,country,item,amount) values(2,"tiger
 SELECT country, COUNT(*) FROM CUSTOMERS GROUP BY country;
 
 
+
+
 select item from Customers where amount between 100 and 500;
 
 
