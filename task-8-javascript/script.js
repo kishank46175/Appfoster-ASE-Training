@@ -39,7 +39,7 @@ function createSpan(val,splits){
 
         div=4;
         if(odd && i==0){
-            x.style.width=Math.floor(((100/splits) +(100%splits)))+ "%"
+            x.style.width=Math.floor(((100/splits) +(100%splits))) + "%"
         } 
             
         else {
@@ -63,6 +63,5 @@ function initiateFun(){
     // console.log(val + " " + splits)
     spiltDiv(val,splits);
     createSpan(val,splits)
-
 }
 
