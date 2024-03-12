@@ -1,12 +1,3 @@
-// async function getJobAsync()
-// {
-//   let response = await fetch(`https://gorest.co.in/public/v2/users`);
-//   let data = await response.json()
-//   return data;
-// }
-// getJobAsync('jobPositionHere')
-//   .then(data => console.log(data));
-
 
 function myfunc(item) {
     const modalTitle = document.querySelector('.modal-title');
@@ -19,8 +10,7 @@ function myfunc(item) {
     modalEmail.textContent = `${item.email}`;
     modalGender.textContent = `${item.gender}`;
     modalStatus.textContent = `${item.status}`;
-    // modalData.innerHTML = `<p>${item.description}</p>`; // Example: Displaying description
-    
+ 
     // Show the modal
     const modal = new bootstrap.Modal(document.querySelector('.modal'));
     modal.show();
@@ -51,10 +41,9 @@ async function renderData() {
   data.forEach((item) => {
     const card = document.createElement("div");
     card.classList.add("d-flex");
-    card.classList.add("mw-25");
     card.classList.add("border-top");
-    card.classList.add("text-primary")
-    // card.classList.add("g-row-8");
+    card.classList.add("text-primary");
+    card.classList.add("p-2")
     card.classList.add("justify-content-between");
 
 
