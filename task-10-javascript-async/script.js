@@ -8,11 +8,23 @@
 //   .then(data => console.log(data));
 
 
-function myfunc(item){
-    console.log("Clicked ")
-    console.log(item.name)
-}
-
+function myfunc(item) {
+    const modalTitle = document.querySelector('.modal-title');
+    const  modalEmail= document.querySelector('#modal-email');
+    const  modalGender= document.querySelector('#modal-gender');
+    const modalStatus = document.querySelector('#modal-status');
+    
+    // Populate modal with data from the clicked item
+    modalTitle.textContent = `${item.name}`;
+    modalEmail.textContent = `${item.email}`;
+    modalGender.textContent = `${item.gender}`;
+    modalStatus.textContent = `${item.status}`;
+    // modalData.innerHTML = `<p>${item.description}</p>`; // Example: Displaying description
+    
+    // Show the modal
+    const modal = new bootstrap.Modal(document.querySelector('.modal'));
+    modal.show();
+  }
 
 
 
