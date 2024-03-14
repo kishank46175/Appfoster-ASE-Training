@@ -75,3 +75,31 @@ body{
 .second-container-first-div{
   margin-top: 1%;margin-right: 2%;
 }
+
+.second-container-second-div{
+  display: flex;margin-top: 4%;margin-left: 2%;
+}
+
+.second-container-second-div-second-child{
+  display: flex;width: 60%;gap: 22%;
+}
+
+
+.second-container-third-div{
+  display: flex; margin-top: 2%;
+}
+
+.second-container-third-div-right-div{
+  margin-top: 1%; width: 110%
+}
+.second-container-third-div-right-second-div{
+  margin-top: 2%;margin-right: 5%;
+}
+
+.table-content-class{
+  font-weight: bold;margin-top: 3%
+}
+
+.second-container-first-first{
+  display: flex;
+}
