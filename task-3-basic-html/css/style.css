@@ -4,6 +4,16 @@
   margin: 0;
 }
 
+
+body{
+  padding: 4%;
+
+}
+.global-class{
+  padding: 3%;
+  border: solid;
+}
+
 .first-div {
   display: flex;
   justify-content: space-between;
@@ -44,3 +54,19 @@
     /* font-size: 30px; */
     text-align: center;
   }
+
+.first-div-first-child{
+  width: 36%; background-color: rgb(204, 235, 235);padding: 2%;
+}
+
+
+.image-backg-class{
+  padding: 3px;background-color: rgb(204, 235, 235);
+}
+.image-backg-main-class{
+  border: 10px solid red;margin-left: 15%;margin-top: 1%;
+}
+
+.second-main-component-class{
+  background-color: rgb(204, 235, 235); margin-top: 5%;padding: 1%;
+}
