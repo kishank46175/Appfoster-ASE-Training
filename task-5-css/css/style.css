@@ -67,3 +67,52 @@
   font-size: 19px;
   margin-top: 4px;
 }
+
+
+.parent-container{
+  display: flex;
+}
+
+.ui-container-parnent-container{
+  display: flex; justify-content: space-between;
+}
+
+.amazon-container{
+  font-size: 20px; opacity: 30%; margin-top: 4px
+}
+
+.amazon-container-experience{
+  margin-right: 5%
+}
+
+
+.skills-proficiency{
+  margin-top: 5%;
+}
+
+.horizontal-bar-parent{
+  opacity: 70%
+}
+
+.horizontal-bar-first-div{
+  display: flex
+}
+
+.horizontal-bar-left-heading{
+  width: 30%; font-weight: bold; font-size: 20px
+}
+
+.horizontal-bar-right-parent{
+  width: 100%; background-color: gainsboro;
+}
+
+.horizontal-bar-right-inner{
+  width: 93%; height: 100%; background-color: blueviolet
+}
+
+.horizontal-bar-second-div{
+  display: flex; margin-top: 4%;
+}
+.horizontal-bar-second-div-inner{
+  width: 56%; height: 100%; background-color: blueviolet
+}
