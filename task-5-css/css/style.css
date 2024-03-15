@@ -43,6 +43,8 @@
     height:max-content;
     background-color: blueviolet;
     color: white;
+
+    min-height:max-content;position: relative;;right: 0;
   }
 
 
@@ -115,4 +117,44 @@
 }
 .horizontal-bar-second-div-inner{
   width: 56%; height: 100%; background-color: blueviolet
+}
+
+
+.jhon-doe-heading{
+  font-size: 38px; font-weight: bold
+}
+
+.full-stack-developer-heading{
+  font-size: 24px; opacity: 80%
+}
+
+.contact-information-container{
+  margin-left: 15%;margin-top: 4%; font-size: larger
+}
+
+.education-container{
+  margin-left: 15%; margin-top: 35px
+}
+
+
+
+.font-weight-bold{
+  font-weight: bold;
+}
+
+.opacity-60-class{
+  opacity: 60%
+}
+
+.language-class{
+  margin-top: 45px; font-size: 22px; font-weight: bold
+}
+
+
+.language-class-font-inner{
+  margin-top: 10px; font-size: 20px
+}
+
+.margin-top-20px{
+  margin-top: 20px
 }
