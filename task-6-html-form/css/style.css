@@ -1,11 +1,84 @@
-.box-class{
-    box-sizing: border-box;
-    width: 550px
+.box-class {
+  box-sizing: border-box;
+  width: 550px;
+}
+
+button {
+  width: 140px;
+  margin-top: 20px;
+  margin-left: 40px;
 }
 
 
-button{
-    width: 140px;
-    margin-top: 20px;
-    margin-left: 40px;
+.span-first-medicare{
+    font-weight: 900; font-size: large
+}
+
+.first-component-first-div {
+  position: relative;
+  left: 270px;
+}
+
+.margin-left-20-4-per {
+  margin-left: 4%;
+}
+
+.margin-left-60-12-per {
+  margin-left: 12%;
+}
+
+.name-field-all {
+  margin-top: 10px;
+  position: relative;
+  left: 110px;
+}
+
+.dob-style-span {
+  margin-left: 72px;
+  padding: 2px;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.mobile-fax-container {
+  margin-left: 19%;
+  margin-top: 2%;
+}
+
+.next-kin {
+  margin-left: 19%;
+  margin-top: 2%;
+}
+
+.margin-top-10px-2per {
+  margin-top: 2%;
+}
+
+.margin-left-6per {
+  margin-left: 6%;
+}
+
+.single-div-colored {
+  margin-left: 3px;
+  border: 1px solid black;
+  width: 18px;
+  text-align: center;
+  background-color: gainsboro;
+}
+
+
+
+.margin-left-10px{
+    margin-left: 3%
+}
+
+
+.background-grainsbro{
+    background-color: gainsboro
+}
+
+.margin-left-75-px{
+    margin-left: 14%
 }

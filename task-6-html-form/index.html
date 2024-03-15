@@ -11,26 +11,29 @@
       <form>
         <fieldset class="box-class">
           <legend>Primary Details</legend>
+          <!-- first component -->
+          
           <div>
             <label style="position: relative; left: 270px" for="valid-id"
               >Valid Till</label
             ><br />
             <label for="mnumber">Medicare No</label>
-            <span style="margin-left: 20px">
+            <span class="margin-left-20-4-per">
+
               <input type="text" id="mnumber" name="mnumber" size="8" />
-              <span style="font-weight: 900; font-size: large">/</span>
+              <span class="span-first-medicare">/</span>
               <input type="text" id="mnumber" name="mnumber" size="2" />
 
               <input type="month" id="valid-id" name="valid-id" />
 
-              <input type="text" size="1" style="background-color: gainsboro" />
+              <input type="text" size="1" class="background-grainsbro"/>
             </span>
 
             <br />
             <br />
 
             <label for="title-id">Title</label>
-            <span style="margin-left: 75px">
+            <span class="margin-left-75-px">
               <select name="title" id="title-id">
                 <option value="none">None</option>
                 <option value="mr">Mr</option>
@@ -40,38 +43,38 @@
 
             <br />
 
-            <div style="margin-top: 10px; position: relative; left: 110px">
+            <div class="name-field-all">
               LastName, FirstName, Middlen
             </div>
 
             <label for="name">Name</label>
             <input
-              style="position: relative; left: 65px"
-              type="text"
-              id="name"
-              name="name"
-              size="29"
+            type="text"
+            id="name"
+            name="name"
+            size="29"
+            style="position: relative; left: 65px"
             />
 
             <br />
             <label for="pref-name">Pref.Name</label>
             <input
+              type="text"
+              id="pref-name"
+              name="pref-name"
+              size="20"
               style="
                 position: relative;
                 left: 36px;
                 margin-top: 10px;
                 margin-bottom: 10px;
               "
-              type="text"
-              id="pref-name"
-              name="pref-name"
-              size="20"
             />
 
             <br />
 
             <label for="dob">DOB</label>
-            <span style="margin-left: 72px; padding: 2px">
+            <span class="dob-style-span">
               <select name="title" id="title-id">
                 <option value="none">dd-mm-yyyy</option>
                 <option value="volvo">27/07/2018</option>
@@ -123,10 +126,10 @@
         <fieldset class="box-class">
           <legend>Contact Details</legend>
 
-          <div style="display: flex">
+          <div class="display-flex">
             <div>Phone</div>
 
-            <div style="margin-left: 60px; display: flex">
+            <div class="display-flex margin-left-60-12-per">
               <div>
                 <div>Home</div>
                 <input type="text" name="" id="" />
@@ -140,7 +143,7 @@
           </div>
 
           <div>
-            <div style="margin-left: 100px; display: flex; margin-top: 10px">
+            <div class="display-flex mobile-fax-container">
               <div>
                 <div>Mobile</div>
                 <input type="text" name="" id="" />
@@ -154,7 +157,7 @@
           </div>
 
           <div>
-            <div style="margin-left: 100px; display: flex; margin-top: 10px">
+            <div class="display-flex next-kin">
               <div>
                 <div>Next of Kin</div>
                 <input type="text" name="" id="" />
@@ -167,22 +170,23 @@
             </div>
           </div>
 
-          <div style="display: flex; margin-top: 10px">
+          <div class="display-flex margin-top-10px-2per">
             <div>Emerg. No</div>
 
-            <div style="margin-left: 30px">
+            <div class="margin-left-6per">
               <input type="text" name="" id="" />
             </div>
           </div>
 
-          <div style="display: flex; margin-top: 10px">
+          <div class="margin-top-10px-2per display-flex" >
             <div>Email</div>
 
-            <div style="margin-left: 60px">
+            <div class="margin-left-60-12-per">
               <input type="text" style="width: 240px" />
             </div>
           </div>
         </fieldset>
+
 
         <!-- third component -->
         <fieldset class="box-class">
@@ -190,33 +194,33 @@
 
           <fieldset>
             <legend>Residential Address</legend>
-            <div style="display: flex; margin-top: 10px">
+            <div class="display-flex margin-top-10px-2per">
               <div>Address 1</div>
 
-              <div style="margin-left: 20px">
+              <div class="margin-left-20-4-per">
                 <input type="text" style="width: 330px" />
               </div>
             </div>
 
-            <div style="display: flex; margin-top: 10px">
+            <div class="display-flex margin-top-10px-2per">
               <div>Address 2</div>
 
-              <div style="margin-left: 20px">
+              <div  class="margin-left-20-4-per">
                 <input type="text" style="width: 330px" />
               </div>
             </div>
 
-            <div style="display: flex; margin-top: 10px">
+            <div class="display-flex margin-top-10px-2per">
               <div>Suburb</div>
 
               <div style="margin-left: 35px">
-                <input type="text" style="width: 120px" />
+                <input type="text"  />
               </div>
 
-              <div style="margin-left: 10px">State</div>
+              <div class="margin-left-20-4-per">State</div>
 
-              <div style="margin-left: 10px">
-                <select id="">
+              <div class="margin-left-20-4-per">
+                <select >
                   <option value="vlc">VLC</option>
                   <option value="NEW JERCY">NEW</option>
                   <option value="washigton">DC</option>
@@ -224,33 +228,24 @@
               </div>
             </div>
 
-            <div style="display: flex; margin-top: 10px">
+            <div class="display-flex margin-top-10px-2per" >
               <div>PostalCode</div>
 
               <div style="margin-left: 10px">
                 <input type="text" style="width: 80px" />
               </div>
 
-              <span
-                style="
-                  margin-left: 3px;
-                  border: 1px solid black;
-                  width: 18px;
-                  text-align: center;
-                  background-color: gainsboro;
-                "
-                >?</span
-              >
+              <span class="single-div-colored">?</span>
 
-              <div style="margin-left: 10px">Country</div>
+              <div class="margin-left-10px">Country</div>
 
-              <div style="margin-left: 10px">
+              <div class="margin-left-10px">
                 <input type="text" value="AUSTRALIA" style="width: 150px" />
               </div>
             </div>
           </fieldset>
 
-          <fieldset style="margin-top: 10px">
+          <fieldset class="margin-top-10px-2per">
             <legend>Single Address</legend>
             <label for="address">
               Are Mailing Address and Residential Address same?
@@ -259,35 +254,35 @@
             </label>
           </fieldset>
 
-          <fieldset style="margin-top: 10px">
+          <fieldset class="margin-top-10px-2per">
             <legend>Mailing Address</legend>
 
-            <div style="display: flex; margin-top: 10px">
+            <div class="margin-top-10px-2per display-flex" >
               <div>Address 1</div>
 
-              <div style="margin-left: 20px">
+              <div class="margin-left-20-4-per">
                 <input type="text" style="width: 330px" />
               </div>
             </div>
 
-            <div style="display: flex; margin-top: 10px">
+            <div class="margin-top-10px-2per display-flex" >
               <div>Address 2</div>
 
-              <div style="margin-left: 20px">
+              <div class="margin-left-20-4-per">
                 <input type="text" style="width: 330px" />
               </div>
             </div>
 
-            <div style="display: flex; margin-top: 10px">
+            <div class="margin-top-10px-2per display-flex" >
               <div>Suburb</div>
 
-              <div style="margin-left: 35px">
+              <div style="margin-left: 8%">
                 <input type="text" style="width: 120px" />
               </div>
 
-              <div style="margin-left: 10px">State</div>
+              <div class="margin-left-10px">State</div>
 
-              <div style="margin-left: 10px">
+              <div class="margin-left-10px">
                 <select s name="" id="">
                   <option value="washigton">VLC</option>
                 </select>
@@ -297,7 +292,7 @@
             <div style="display: flex; margin-top: 10px">
               <div>PostalCode</div>
 
-              <div style="margin-left: 10px">
+              <div class="margin-left-10px">
                 <input type="text" style="width: 80px" />
               </div>
 
@@ -312,9 +307,9 @@
                 >?</span
               >
 
-              <div style="margin-left: 10px">Country</div>
+              <div class="margin-left-10px"">Country</div>
 
-              <div style="margin-left: 10px">
+              <div class="margin-left-10px">
                 <input type="text" value="AUSTRALIA" style="width: 150px" />
               </div>
             </div>
