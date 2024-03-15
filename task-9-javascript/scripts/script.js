@@ -57,10 +57,24 @@ function createSpan(val,splits){
 
 
 function initiateFun(){
-    
+
     let val=document.getElementById("number-entered").value ||0;
     let splits=document.getElementById("splits").value ||1 ;
     // console.log(val + " " + splits)
+
+    if(val<0 || splits<0){
+        alert('Please Enter positive Number');
+        document.getElementById("number-entered").value="";
+        document.getElementById("splits").value="";
+        return ;
+    }
+
+    if(splits>val){
+        alert('Splits cannot be greater than Number ');
+        document.getElementById("number-entered").value="";
+        document.getElementById("splits").value="";
+        return ;
+    }
     spiltDiv(val,splits);
     createSpan(val,splits)
 }

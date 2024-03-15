@@ -33,3 +33,10 @@ button{
 }
 
 
+.split-button{
+    margin-top: 4px; background-color: white; padding: 2px;
+}
+
+.color-shades-div{
+    margin-top: 40px;display: flex;column-gap: 4px;
+}
